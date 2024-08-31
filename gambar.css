@@ -1,0 +1,7 @@
+.background-image {
+    width: 40%;
+    height: 400px; 
+    background-image: url('film-suzume_ratio-16x9.jpg');
+    background-size: cover; 
+    background-position: center; 
+}
